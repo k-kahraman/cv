@@ -1,6 +1,6 @@
 
 # **Kaan Kahraman**
-Junior Software Developer and Computer Engineering Student. Visit my personal Website [k-kahraman.github.io](k-kahraman.github.io/)
+Junior Software Developer and Computer Engineering Student. More information can be found on [my personal website](k-kahraman.github.io/)
 
 ## Work Experience
 
