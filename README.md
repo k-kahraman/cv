@@ -1,6 +1,6 @@
 
 # **Kaan Kahraman**
-Junior Software Developer and Computer Engineering Student
+Junior Software Developer and Computer Engineering Student. Visit my personal Website [k-kahraman.github.io](k-kahraman.github.io/)
 
 ## Work Experience
 
@@ -43,6 +43,6 @@ Languages: `English` `Chinese` `Turkish`
 **Chemical Engineering**,  _Ankara, Turkey_
 
 ---
-
+## Contact
 ##### Email: **<knkhrmn.developer@gmail.com>** || Phone: **+90 531 996 7632** || Website: **[https://k-kahraman.github.io](https://k-kahraman.github.io/) || Github: [k-kahraman](https://github.com/k-kahraman)**
 
