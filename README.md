@@ -4,23 +4,31 @@ Junior Software Developer and Computer Engineering Student. More information can
 
 ## Work Experience
 
+### Scandiweb
+->_Riga, Latvia (Remote)_
+
+**Software Developer**
+->_June 2022 to Present_
+
+- Working on the [Oliver's Website](https://www.olivers.dk/)
+
 ### BeeVision
 ->_Ankara, Turkey_
 
 **Junior Software Developer**
-->_June 2021 to Present_
+->_June 2021 to June 2022_
 
 - Mainly focused on Back-End development with Spring Boot
 - Created CI/CD pipeline using various tools such as Jenkins, Docker, Kubernetes.
-- Developed and maintained Spring Boot server using monolithic architacture
+- Developed and maintained Spring Boot server using monolithic architecture
 - Integrated multiple services using different APIs (REST, GraphQL, SOAP)
 - Worked closely with Front-End department, and helped Front-End development in some cases
 - Developed an Object Detection model using TensorFlow 2, and created corresponding pipelines
 
 ## Skills
 
-Programming Languages and Technologies: `Spring Boot` `Java` `SQL` `MySQL` `HTML, CSS` `JavaScript` `Node.js` `React.js` `Express.js` `Git` `Maven` `Docker` `CI/CD`
-Languages: `English` `Chinese` `Turkish`
+- Programming Languages and Technologies: `Spring Boot` `Java` `SQL` `MySQL` `HTML, CSS` `JavaScript` `Node.js` `React.js` `Express.js` `Git` `Maven` `Docker` `CI/CD`
+- Languages: `English` `Chinese` `Turkish`
 
 ## Certificates and Achievements
 ### Certificates
@@ -35,14 +43,13 @@ Languages: `English` `Chinese` `Turkish`
 ## Education
 
 ### Baskent University
-->_2021 -  2024_, 3.6 GPA
+->_2020 -  2024_, 3.6 GPA
 **Computer Engineering**, _Ankara, Turkey_
 
 ### Hacettepe University
-->_2017 - 2021_, Left
+->_2017 - 2020_, Left
 **Chemical Engineering**,  _Ankara, Turkey_
 
 ---
 ## Contact
 ##### Email: **<knkhrmn.developer@gmail.com>** || Phone: **+90 531 996 7632** || Website: **[https://k-kahraman.github.io](https://k-kahraman.github.io/) || Github: [k-kahraman](https://github.com/k-kahraman)**
-
