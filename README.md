@@ -10,7 +10,7 @@ Junior Software Developer and Computer Engineering Student. More information can
 **Software Developer**
 ->_June 2022 to Present_
 
-- Working on the [Oliver's Website](https://www.olivers.dk/) www.olivers.dk
+- Working on the [Oliver's Website](https://www.olivers.dk/) - www.olivers.dk
 
 ### BeeVision
 ->_Ankara, Turkey_
